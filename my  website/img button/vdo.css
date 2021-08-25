@@ -1,0 +1,110 @@
+*
+{
+
+    padding: 0;
+    margin: 0;
+}
+
+
+.features-video h2
+{
+    color: #fff;
+    padding: 10px;
+    margin: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.features-video
+{
+    padding: 30px;
+    text-align: justify;
+    background-color: purple; 
+}
+    
+
+
+
+.video-featured-box
+{
+    box-shadow: 0 0 10px rgba(37,73,214,0,18);
+    margin-bottom: 30px;
+    
+}
+.featured-vid
+{
+    
+    box-sizing: border-box;
+}
+.Gallery
+{
+
+}
+.features-video h2
+{
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer
+{
+    padding:  100px 20px 15px;
+    background-image: linear-gradient(#2d557d,#9610fd);
+    color: #fff;
+
+}
+.footer-logo
+{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer h4
+{
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+.footer p
+{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 35px;
+   
+}
+.footer .row .fa
+{
+    padding-right: 20px;
+    font-size: 15px;
+}
+.footer hr
+{
+    margin-top: 10px;
+    background: #efefef;
+}
+.fa-heart
+{
+    margin: 0 5px;
+    color: #f44336;
+}
+.footer .copyright
+{
+    text-align: center;
+    
+}
+a
+{
+    float: right;
+    text-decoration-line: none;
+color: black;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+a
+{
+    color: #fff;
+}
