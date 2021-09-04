@@ -50,7 +50,7 @@ li
 {
    
 text-decoration: none;
-color: white;
+color: #fff;
 border: solid blue;
 border-style: solid;
 padding: 9px;
@@ -59,7 +59,7 @@ padding: 9px;
 .mk a:hover, :active
 {
     background-color: rgb(240, 37, 10);
-    color: rgb(255, 253, 253);
+    color: #fff;
 }
 .mk a:link, a:visited
 {
